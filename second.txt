@@ -3,3 +3,5 @@ git rm ファイル名
 
 Gitリポジトリの状況を表示
 git status
+
+git diff
